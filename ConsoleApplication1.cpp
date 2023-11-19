@@ -46,7 +46,7 @@ public:
 	float bolum = 0;
 
 	void bolme_islemi() {
-		this->bolum = this->sayi1 / this->sayi2;
+		this->bolum = (float) this->sayi1 / this->sayi2;
 		cout << "Bolum = " << this->bolum;
 	}
 
