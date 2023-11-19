@@ -1,1 +1,1 @@
-# Cpp ile basit hesap makinesi.
+# C++ ile basit hesap makinesi.
